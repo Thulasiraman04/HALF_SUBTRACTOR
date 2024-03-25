@@ -29,7 +29,8 @@ and (borr,x,b);
 endmodule
 ```
 # Output:
-![image](https://github.com/DSVishal0407/HALF_SUBTRACTOR/assets/163637297/cf7dae56-0ce4-4124-b7a1-edb04354c550)
+![image](https://github.com/Thulasiraman04/HALF_SUBTRACTOR/assets/161105890/4f6d253a-c15b-4fd6-a927-0044148ecf19)
+
 
 # Result:
 Hence Half Subtractor Verified.
